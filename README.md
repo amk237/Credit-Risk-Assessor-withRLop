@@ -266,7 +266,7 @@ It should **not** be used as the sole basis for real lending or underwriting dec
 - GitHub: https://github.com/amk237
 - Email: mkhan16@ualberta.ca
 
-- NOTE - While I worked on the bootstrapping parts and RL optimization, majority of this project was inspired and referred from Muhammad Gane's CoL Assesor so please check that out!
+- NOTE - While I worked on the bootstrapping parts and RL optimization, majority of this project was inspired and referred from Muhammad Gane's CoT Assesor so please check that out here - https://github.com/m-turnergane/CoT-RL-Credit_Risk_Assessment!
 
 ---
 
