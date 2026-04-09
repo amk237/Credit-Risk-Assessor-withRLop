@@ -255,29 +255,22 @@ Be sure to review the dataset license and usage terms before redistributing or u
 This repository is for **educational and research purposes only**.
 
 It should **not** be used as the sole basis for real lending or underwriting decisions.  
-Real-world credit systems require:
 
-- fairness and bias evaluation
-- regulatory compliance
-- robust validation
-- human oversight
-- domain and legal review
 
 ---
 
 ## Author
 
-**Muhammad Turner Gane**
+  **Amaan Khan**
 
-- GitHub: [m-turnergane](https://github.com/m-turnergane)
-- LinkedIn: [Muhammad Gane](https://www.linkedin.com/in/muhammad-gane/)
-- Email: m.turnergane@gmail.com
+- GitHub: https://github.com/amk237
+- Email: mkhan16@ualberta.ca
+
+- NOTE - While I worked on the bootstrapping parts and RL optimization, majority of this project was inspired and referred from Muhammad Gane's CoL Assesor so please check that out!
 
 ---
 
 ## Final note
 
-This project sits at the intersection of **machine learning**, **explainability**, and **decision systems**.  
-If you're interested in interpretable AI, applied ML, or fintech experimentation, this repo is a solid place to start.
 
 If you found it useful, consider starring the project.
